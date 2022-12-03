@@ -1346,3 +1346,23 @@ https://s.funpay.com/s/img/6q/g3/6qg3l8dqfhpjbkbmu5ec.jpg
 https://s.funpay.com/s/img/yq/up/yqupiuu3sqrzyz8p26n1.jpg (The buyer randommmm2 has confirmed that order #XK1Y5283 has been fulfilled successfully.)  
 
 ___
+
+### Transaction ID: 6PT612711F805224C
+
+**FunPay order number**: X7HKWLY3
+
+**PayPal order number**: 2TE732382W045625D
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [Prot2008](https://funpay.com/en/users/4353832/)
+
+**Overview**: https://s.funpay.com/s/img/vf/hg/vfhg3sq2sciinnbjz2qy.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/so/6o/so6otolkbd8azfd601x6.jpg (in this screenshot, the buyer has paid for order #X7HKWLY3 and confirmed that order.)
+
+___
