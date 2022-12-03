@@ -1110,3 +1110,20 @@ https://s.funpay.com/s/img/hh/jl/hhjls3f3y3pcxpc6vk7h.jpg (buyer has paid for or
 https://s.funpay.com/s/img/0s/3f/0s3fyi406ecqhb9bvh6k.jpg (the buyer has confirmed that order #YXAR2WJS has been fulfilled successfully)  
 
 ___
+
+### Transaction ID: 6ND572167H6730454 
+
+**FunPay order number**: BRMYM36X
+
+**PayPal order number**: 2V2097387S2926543
+
+**Buyer**: [ppxh](https://funpay.com/en/users/73633/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/pu/bk/pubkf3xuflenxm3qf8yh.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+https://s.funpay.com/s/img/vf/cd/vfcdrrk4deknv6e8rfxi.jpg (in this screenshot, the buyer has paid for order #BRMYM36X and confirmed that order.)  
