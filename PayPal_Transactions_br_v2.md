@@ -1404,3 +1404,23 @@ ___
 **Chat**: 
 
 https://s.funpay.com/s/img/bb/va/bbvax5099bxkdgtlvvgk.jpg (in this screenshot, the buyer has paid for order #S7JL4UWE and confirmed that order.)  
+
+___
+
+### Transaction ID: 2JU77235WY703722U 
+
+**FunPay order number**: W8JYERL1
+
+**PayPal order number**: 35H37584KH539235N	
+
+**Buyer**: [Bistrogo](https://funpay.com/en/users/2621363/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/uk/ua/ukuazti3hvs8bxggrm7w.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/69/3v/693vivrx59x0v7x9tg4c.jpg (in this screenshot, the buyer has paid for order #W8JYERL1 and confirmed that order.)  
