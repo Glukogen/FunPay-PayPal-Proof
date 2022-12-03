@@ -1149,6 +1149,8 @@ ___
 
 https://s.funpay.com/s/img/qw/1x/qw1xf9x5qyzokugifgdz.jpg (in this screenshot, the buyer has paid for order #WFAQYS1Z and confirmed that order.) 
 
+**Screenshot conformation**: https://s.funpay.com/s/chat/2k/3u/2k3u5rfgqcbopbpr52qt.jpg
+
 ___
 
 ### Transaction ID: 6ND572167H6730454 
