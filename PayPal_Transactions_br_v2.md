@@ -984,4 +984,4 @@ ___
 **Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
 
 **Chat**: 
-https://s.funpay.com/s/img/ax/3c/ax3c2vc0upjszryex8ak.jpg in this screenshot, the buyer has paid for order #D6K811SJ and confirmed that order.
+https://s.funpay.com/s/img/ax/3c/ax3c2vc0upjszryex8ak.jpg (in this screenshot, the buyer has paid for order #D6K811SJ and confirmed that order.)  
