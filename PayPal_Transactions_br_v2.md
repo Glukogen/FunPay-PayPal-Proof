@@ -1167,3 +1167,24 @@ ___
 
 **Chat**: 
 https://s.funpay.com/s/img/g9/wu/g9wu6lo42forv2a7jx13.jpg (in this screenshot, the buyer has paid for order #U5HFFW32 and confirmed that order.)  
+
+
+___
+
+### Transaction ID: 3H011510FF385911C 
+
+**FunPay order number**: KF8BMHCF
+
+**PayPal order number**: 9R157773XR4266109
+
+**Buyer**: [paulveentego](https://funpay.com/en/users/2033709/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/xs/22/xs22gvbvyr4z0i4ymp3k.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+https://s.funpay.com/s/img/z0/w3/z0w3h93n23obp27fhq42.jpg
+https://s.funpay.com/s/img/3a/90/3a909lx4u89lprjo9t85.jpg (in this screenshot, the buyer has paid for order #KF8BMHCF and confirmed that order.)  
