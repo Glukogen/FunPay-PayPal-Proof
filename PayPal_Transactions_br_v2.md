@@ -1345,6 +1345,8 @@ https://s.funpay.com/s/img/km/le/kmlerfxt810bqiftn5zp.jpg (The buyer randommmm2 
 https://s.funpay.com/s/img/6q/g3/6qg3l8dqfhpjbkbmu5ec.jpg
 https://s.funpay.com/s/img/yq/up/yqupiuu3sqrzyz8p26n1.jpg (The buyer randommmm2 has confirmed that order #XK1Y5283 has been fulfilled successfully.)  
 
+**video confirmation**: https://www.youtube.com/watch?v=EmFGcSmF5RM
+
 ___
 
 ### Transaction ID: 6PT612711F805224C
