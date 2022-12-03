@@ -1680,3 +1680,23 @@ https://s.funpay.com/s/chat/97/87/9787aqti8rteu73znsqy.jpg
 https://s.funpay.com/s/chat/zj/r7/zjr7njpa9qyiwngaz6kq.jpg  
 
 ___
+
+### Transaction ID: 34M94049MJ0049640
+
+**FunPay order number**: P5PM8RXG
+
+**PayPal order number**: 6KA0208588379514F
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)  
+
+**Sentiments**: [bookofra](https://funpay.com/en/users/2240069/)  
+
+**Overview**: https://s.funpay.com/s/img/os/ia/osiavfwpmdc1jh0ecsnu.jpg 
+
+**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order [CHARACTER NAME field](https://s.funpay.com/s/img/ew/0h/ew0hch8504jruwer1mtj.jpg)), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game. 
+The customer has been buying a similar product on the site for a very long time. The buyer has about 130 successful transactions, he does not confirm the order if the item is not received.
+
+
+**Chat**: 
+
+https://s.funpay.com/s/img/r0/v1/r0v1rmrfqglarknnr805.jpg (in this screenshot,buyer randommmm2 has paid and confirmed that order #P5PM8RXG  
