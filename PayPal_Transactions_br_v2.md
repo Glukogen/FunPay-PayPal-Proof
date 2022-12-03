@@ -1229,3 +1229,25 @@ ___
 
 **Chat**: 
 https://s.funpay.com/s/img/35/44/3544ogdqribwd1uq9ups.jpg (in this screenshot, the buyer has paid for order #CHEJPK4T and confirmed that order.)  
+
+___
+
+### Transaction ID: 51U567118P364270W
+
+**FunPay order number**: UFS61HNT
+
+**PayPal order number**: 92U17362B7859793N
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [Ponchik525](https://funpay.com/en/users/2071373/)
+
+**Overview**: https://s.funpay.com/s/img/nm/7x/nm7x6kwit7aj0ojkegi7.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/60/ru/60ruewzsgr06w3wbgir6.jpg (in this screenshot, the buyer has paid for order #UFS61HNT and confirmed that order.)  
+
+___
