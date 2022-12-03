@@ -1651,3 +1651,32 @@ ___
 **Overview**: https://s.funpay.com/s/img/62/h8/62h8pwb2r5ioi8rgxufe.jpg      
 
 **Detail**: The order was not paid because of the Pending status.   
+
+___
+
+### Transaction ID: 2WG78394UK702810D
+
+**FunPay order number**: WF2ARJ6G
+
+**PayPal order number**: 8PF11297RD733912E
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [wtriwara](https://funpay.com/en/users/450927/)
+
+**Overview**: https://s.funpay.com/s/img/t6/5e/t65exr76zbfmvv6ge75j.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/ii/fh/iifhxydmdi2rbmibrf55.jpg (The buyer randommmm2 has paid for order #WF2ARJ6G)  
+https://s.funpay.com/s/img/uh/qy/uhqye0fxowqcarket6ei.jpg  
+https://s.funpay.com/s/img/99/83/9983tax4rysrdbdcjhuw.jpg (The buyer randommmm2 has confirmed that order #WF2ARJ6G has been fulfilled successfully)  
+
+**Screenshot confirmation**:
+
+https://s.funpay.com/s/chat/97/87/9787aqti8rteu73znsqy.jpg  
+https://s.funpay.com/s/chat/zj/r7/zjr7njpa9qyiwngaz6kq.jpg  
+
+___
