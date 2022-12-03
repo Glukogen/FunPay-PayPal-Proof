@@ -1087,3 +1087,26 @@ ___
 
 **Chat**: 
 https://s.funpay.com/s/img/j9/8a/j98a4kz01wkvdxqasarw.jpg (in this screenshot, the buyer has paid for order #UTMU441E and confirmed that order.)  
+
+___
+
+### Transaction ID: 1LF464474F337614D
+
+**FunPay order number**: YXAR2WJS
+
+**PayPal order number**: 39J200683T173042G
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [Dvl41k](https://funpay.com/en/users/396656/)
+
+**Overview**: https://s.funpay.com/s/img/lz/l2/lzl27bzqcapj48e2hz4w.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/hh/jl/hhjls3f3y3pcxpc6vk7h.jpg (buyer has paid for order #YXAR2WJS)  
+https://s.funpay.com/s/img/0s/3f/0s3fyi406ecqhb9bvh6k.jpg (the buyer has confirmed that order #YXAR2WJS has been fulfilled successfully)  
+
+___
