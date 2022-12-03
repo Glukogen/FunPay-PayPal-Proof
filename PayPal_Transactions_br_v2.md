@@ -1078,11 +1078,11 @@ https://s.funpay.com/s/img/e1/wo/e1wow3eqczvin0an4ui9.jpg (in this screenshot, t
 
 ___
 
-### Transaction ID: 1HB240328D4931208 
+### Transaction ID: 8W679777LM1100234 
 
 **FunPay order number**: UTMU441E
 
-**PayPal order number**: 5FH68838BR236101S
+**PayPal order number**: 6V100822NG904263G
 
 **Buyer**: [Grigorius](https://funpay.com/en/users/22019/)
 
@@ -1567,5 +1567,31 @@ https://s.funpay.com/s/img/6e/mx/6emx0cde54rn7b9rckjw.jpg
 https://s.funpay.com/s/img/k3/dj/k3djl9aak56wfxj5pm9y.jpg  
 https://s.funpay.com/s/img/ox/cj/oxcjcg3lznxcs22bi3x9.jpg 
 https://s.funpay.com/s/img/3d/65/3d65bnd76x0kuamqvz9b.jpg (The buyer thanked the seller for the work done)  
+
+___
+
+### Transaction ID: 1HB240328D4931208 
+
+FunPay order number: E7EWNFTX
+
+PayPal order number: 5FH68838BR236101S
+
+Buyer: [randommmm2](https://funpay.com/en/users/2040243/)
+
+Seller: [bookofra](https://funpay.com/en/users/2240069/)
+
+Overview: https://s.funpay.com/s/img/kp/qg/kpqgz5rj1bf0lomy8da4.jpg
+
+Detail: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order [CHARACTER NAME field](https://s.funpay.com/s/img/23/h6/23h6qjr1yx9v3sk62dbp.jpg)), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+Buyer randommmm2 bought the same item many times from the seller bookofra. And, having thanked him, the buyer confirmed the deal and after some time returned to the seller bookofra for the goods again.
+
+Chat: 
+
+https://s.funpay.com/s/img/ge/hx/gehxnufk9t6xrltn0orx.jpg (in this screenshot, all previous orders between buyer randommmm2 and sellerbookofra)
+https://s.funpay.com/s/img/dd/vo/ddvo3sbul2d1c4bykd9z.jpg(in this screenshot, all previous orders between buyer randommmm2 and sellerbookofra)
+https://s.funpay.com/s/img/wp/ck/wpcks7oezwo9771xy32e.jpg(in this screenshot, all previous orders between buyer randommmm2 and sellerbookofra)
+https://s.funpay.com/s/img/8e/fp/8efptznn1ggwzw3b0hey.jpg(in this screenshot, all previous orders between buyer randommmm2 and sellerbookofra)
+https://s.funpay.com/s/img/ml/zk/mlzk8opgh9az8yotswqq.jpg (in this screenshot, buyer randommmm2 has paid and confirmed that order #E7EWNFT)
 
 ___
