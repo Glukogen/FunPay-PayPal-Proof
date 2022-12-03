@@ -1190,3 +1190,25 @@ ___
 **Chat**: 
 https://s.funpay.com/s/img/z0/w3/z0w3h93n23obp27fhq42.jpg
 https://s.funpay.com/s/img/3a/90/3a909lx4u89lprjo9t85.jpg (in this screenshot, the buyer has paid for order #KF8BMHCF and confirmed that order.)  
+
+___
+
+### Transaction ID: 3CU42496BS7424747
+
+**FunPay order number**: XBS4UD6B
+
+**PayPal order number**: 4R224777R4383420U
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [MayoMan](https://funpay.com/en/users/1839585/)
+
+**Overview**: https://s.funpay.com/s/img/is/nu/isnu5qhlctk2qomn2fr2.jpg
+
+**Detail**: The buyer paid for the order #XBS4UD6B, but subsequently refused the services, and asked to give him other services, for which we placed the order #U5HFFW32. Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/6b/1k/6b1k9zfyrbpd37vefrio.jpg (in this screenshot, the buyer has paid for order #U5HFFW32 and confirmed that order.)
+
+___
