@@ -1262,3 +1262,23 @@ ___
 https://s.funpay.com/s/img/60/ru/60ruewzsgr06w3wbgir6.jpg (in this screenshot, the buyer has paid for order #UFS61HNT and confirmed that order.)  
 
 ___
+
+### Transaction ID: 2TL81674465347121
+
+**FunPay order number**: XKZEXQ7Q
+
+**PayPal order number**: 9YC866572F818572X
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [Boringfox](https://funpay.com/en/users/3833042/)
+
+**Overview**: https://s.funpay.com/s/img/1f/ic/1ficuf69vf9pgii8edl6.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/6g/hs/6ghs7d89i5o6svcbu6x8.jpg (in this screenshot, the buyer has paid for order #XKZEXQ7Q and confirmed that order.)  
+
+___
