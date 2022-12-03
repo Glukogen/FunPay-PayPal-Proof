@@ -1126,4 +1126,27 @@ ___
 **Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
 
 **Chat**: 
+
 https://s.funpay.com/s/img/vf/cd/vfcdrrk4deknv6e8rfxi.jpg (in this screenshot, the buyer has paid for order #BRMYM36X and confirmed that order.)  
+
+___
+
+### Transaction ID: 2C867883BP814321M
+
+**FunPay order number**: WFAQYS1Z
+
+**PayPal order number**: 05501373NS0688259
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [Poganka1](https://funpay.com/en/users/215693/)
+
+**Overview**: https://s.funpay.com/s/img/i8/cj/i8cj5pveqhiuv55u4sx7.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/qw/1x/qw1xf9x5qyzokugifgdz.jpg (in this screenshot, the buyer has paid for order #WFAQYS1Z and confirmed that order.) 
+
+___
