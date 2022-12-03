@@ -1366,3 +1366,21 @@ ___
 https://s.funpay.com/s/img/so/6o/so6otolkbd8azfd601x6.jpg (in this screenshot, the buyer has paid for order #X7HKWLY3 and confirmed that order.)
 
 ___
+
+### Transaction ID: 4DN207568Y686745C 
+
+**FunPay order number**: JKGT1U62
+
+**PayPal order number**: 6WT84796DA426344U	
+
+**Buyer**: [tikitaki30](https://funpay.com/en/users/4318515/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/wy/o8/wyo8r678lh6uzhupzmea.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/r3/0u/r30uup0aycjoxs4mvlcu.jpg (in this screenshot, the buyer has paid for order #118129988 and confirmed that order.)  
