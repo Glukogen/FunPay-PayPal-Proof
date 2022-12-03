@@ -1150,3 +1150,20 @@ ___
 https://s.funpay.com/s/img/qw/1x/qw1xf9x5qyzokugifgdz.jpg (in this screenshot, the buyer has paid for order #WFAQYS1Z and confirmed that order.) 
 
 ___
+
+### Transaction ID: 6ND572167H6730454 
+
+**FunPay order number**: U5HFFW32
+
+**PayPal order number**: 7LU34720BL9888143
+
+**Buyer**: [MayoMan](https://funpay.com/en/users/1839585/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/sa/f6/saf6dxh2tx5jtj78dsuy.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+https://s.funpay.com/s/img/g9/wu/g9wu6lo42forv2a7jx13.jpg (in this screenshot, the buyer has paid for order #U5HFFW32 and confirmed that order.)  
