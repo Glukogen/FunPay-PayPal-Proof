@@ -1048,3 +1048,25 @@ ___
 
 **Chat**: 
 https://s.funpay.com/s/img/kh/j9/khj943q221qxzaw7sgin.jpg (in this screenshot, the buyer has paid for order #LYPP4JYA and confirmed that order.)  
+
+___
+
+### Transaction ID: 27P585568S387101T
+
+**FunPay order number**: T69898JD
+
+**PayPal order number**: 5CB18623CH880093N
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [AlexFend](https://funpay.com/en/users/324701/)
+
+**Overview**: https://s.funpay.com/s/img/j0/q1/j0q1lzwjm87023fqsmdm.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/e1/wo/e1wow3eqczvin0an4ui9.jpg (in this screenshot, the buyer has paid for order #T69898JD and confirmed that order.)  
+
+___
