@@ -1212,3 +1212,20 @@ ___
 https://s.funpay.com/s/img/6b/1k/6b1k9zfyrbpd37vefrio.jpg (in this screenshot, the buyer has paid for order #U5HFFW32 and confirmed that order.)
 
 ___
+
+### Transaction ID: 51147879WU7508004 
+
+**FunPay order number**: CHEJPK4T
+
+**PayPal order number**: 7HL018706L475945G
+
+**Buyer**: [MisterPi](https://funpay.com/en/users/36330/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/1g/9z/1g9zyl85mhel5e5il6yq.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+https://s.funpay.com/s/img/35/44/3544ogdqribwd1uq9ups.jpg (in this screenshot, the buyer has paid for order #CHEJPK4T and confirmed that order.)  
