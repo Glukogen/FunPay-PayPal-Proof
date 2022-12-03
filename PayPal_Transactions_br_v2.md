@@ -1471,4 +1471,60 @@ https://s.funpay.com/s/img/xy/xq/xyxq9t5t5n9jt16u39yy.jpg (in this screenshot,  
 
 **Video confirmation**: [https://youtu.be/x-PXAntEmNw](https://youtu.be/x-PXAntEmNw)  
 
+___
 
+### Transaction ID: 00R09791YY482823Y
+
+**FunPay order number**: NNHSDLJX
+
+**PayPal order number**: 94R19654YU993224T
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Sellers**: 
+
+[TrueFighter](https://funpay.com/en/users/17500/)
+[pbmzk](https://funpay.com/en/users/1042742/)
+[qqsoulfly](https://funpay.com/en/users/4075147/)
+
+**Overview**: 
+
+*order #TJB8DKF3*: https://s.funpay.com/s/img/aa/wf/aawfhb1u6msbtwaiywn6.jpg  
+*order #FRWQE2TZ*: https://s.funpay.com/s/img/fq/ek/fqek1ba27tw79fngl45k.jpg  
+*order #YGLPP5WU*: https://s.funpay.com/s/img/du/82/du82kqzf7a2anovuuvr9.jpg  
+
+**Detail**: The buyer paid for the order #NNHSDLJX, but subsequently refused the services, and asked to give him other services, for which we placed the orders #TJB8DKF3, #FRWQE2TZ, #YGLPP5WU.
+Ordering in #TJB8DKF3 is carried out as follows: the buyer transfers the data from the account, and the seller performs the service as agreed in the chat.
+Ordering in #FRWQE2TZ, #YGLPP5WU is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+*order #TJB8DKF3*:  
+https://s.funpay.com/s/img/bp/ud/bpudri6h45crq7y2e6vo.jpg  
+https://s.funpay.com/s/img/2m/vv/2mvvfkkexmr927vx7gg6.jpg  
+https://s.funpay.com/s/img/bf/3w/bf3w07gkskftw932n75l.jpg  
+https://s.funpay.com/s/img/mh/qr/mhqr7hulyzdb8dwlhln2.jpg  
+https://s.funpay.com/s/img/q2/bg/q2bg3oomqepdb9amh4ap.jpg (The buyer gave the login and password from the account in order for the seller to start performing the service)  
+https://s.funpay.com/s/img/85/d6/85d66a15ktmqwt7227rb.jpg  
+https://s.funpay.com/s/img/av/ph/avphd3r0a8j5m28qw7i8.jpg  
+https://s.funpay.com/s/img/ly/j0/lyj0xtbkvshsrqn2im0k.jpg  
+https://s.funpay.com/s/img/3l/h7/3lh7k6ivazt3h0e5hrwv.jpg  
+https://s.funpay.com/s/img/xw/t1/xwt1935foophe49g0zzv.jpg  
+https://s.funpay.com/s/img/mq/g2/mqg2uz3egimpw98y1x2e.jpg  
+https://s.funpay.com/s/img/ik/5a/ik5af0fjavxyb050ik69.jpg (The buyer randommmm2 has paid for order #TJB8DKF3.)  
+https://s.funpay.com/s/img/z1/wv/z1wv6crkktnkafld72tu.jpg  
+https://s.funpay.com/s/img/dn/it/dnitwvas3be5gn1dfakc.jpg  
+https://s.funpay.com/s/img/qp/aj/qpajymca7qw4vaj9sf35.jpg  
+https://s.funpay.com/s/img/1n/ma/1nmaoqct8b8uni7mijgm.jpg  
+https://s.funpay.com/s/img/6e/mx/6emx0cde54rn7b9rckjw.jpg  
+https://s.funpay.com/s/img/k3/dj/k3djl9aak56wfxj5pm9y.jpg  
+https://s.funpay.com/s/img/ox/cj/oxcjcg3lznxcs22bi3x9.jpg (The buyer randommmm2 has confirmed that order #TJB8DKF3 has been fulfilled successfully)  
+https://s.funpay.com/s/img/3d/65/3d65bnd76x0kuamqvz9b.jpg (The buyer thanked the seller for the work done)  
+
+*order #FRWQE2TZ*:  
+https://s.funpay.com/s/img/rj/lg/rjlgtspfepn7i2i3o5es.jpg (in this screenshot, the buyer has paid for order #FRWQE2TZ and confirmed that order.)  
+
+*order #YGLPP5WU*:
+https://s.funpay.com/s/img/ls/ej/lsejziw9cum6ojdxjtbb.jpg (in this screenshot, the buyer has paid for order #YGLPP5WU and confirmed that order.)  
+
+___
