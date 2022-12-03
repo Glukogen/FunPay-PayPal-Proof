@@ -1619,3 +1619,35 @@ https://s.funpay.com/s/img/dd/vo/ddvo3sbul2d1c4bykd9z.jpg (in this screenshot, a
 https://s.funpay.com/s/img/wp/ck/wpcks7oezwo9771xy32e.jpg (in this screenshot, all previous orders between buyer randommmm2 and sellerbookofra)  
 https://s.funpay.com/s/img/8e/fp/8efptznn1ggwzw3b0hey.jpg (in this screenshot, all previous orders between buyer randommmm2 and sellerbookofra)  
 https://s.funpay.com/s/img/ml/zk/mlzk8opgh9az8yotswqq.jpg (in this screenshot, buyer randommmm2 has paid and confirmed that order #E7EWNFT)  
+
+___
+
+### Transaction ID:0U5599455X9463531 
+
+**FunPay order number**: PUU2S9Z1
+
+**PayPal order number**: 25D12530N3570562X
+
+**Buyer**: [niggaslayer69](https://funpay.com/en/users/2425892/)  
+
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)    
+
+**Overview**: https://s.funpay.com/s/img/fl/bm/flbmssg3obsnn9g2hd2e.jpg    
+
+**Detail**: The order was not paid because of the Pending status.  
+
+___
+
+### Transaction ID:7RA31933FH3585713 
+
+**FunPay order number**: X97EZGVF
+
+**PayPal order number**: 1SR086653U179022Y
+
+**Buyer**: [niggaslayer69](https://funpay.com/en/users/2425892/)  
+
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)    
+
+**Overview**: https://s.funpay.com/s/img/62/h8/62h8pwb2r5ioi8rgxufe.jpg      
+
+**Detail**: The order was not paid because of the Pending status.   
