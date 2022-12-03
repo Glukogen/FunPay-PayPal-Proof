@@ -945,3 +945,31 @@ ___
 **FunPay order number**: RXJRMWQY
 
 **PayPal order number**: 3R318458BX167981T
+
+___
+
+### Transaction ID: 29889305KR133212K
+
+**FunPay order number**: LD3EGP3K
+
+**PayPal order number**: 8RW31823FH958000D
+
+**Buyer**: [Aryafym](https://funpay.com/users/5578571/)
+
+**Seller**: [Qbar](https://funpay.com/en/users/2993447/)
+
+**Overview**: https://s.funpay.com/s/img/2w/l1/2wl16wwgzwsyddy93u41.jpg
+
+**Detail**: The buyer paid for the order #LD3EGP3K, but subsequently refused the services, and asked to give him other services, for which we placed the order #WKG3Q37E. Ordering is carried out as follows: the seller gave out account data and helped to relink the account to the buyer.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/tw/co/twco51mk6k75m4hhuzv2.jpg
+https://s.funpay.com/s/img/5a/wc/5awcs9cixbnk993vnlgo.jpg
+https://s.funpay.com/s/img/po/cp/pocpaeidfmukngqcrjnn.jpg (buyer Aryafym has paid for order #F2XSC5L9)
+https://s.funpay.com/s/img/0a/48/0a48vmvhjp2uppaauzi5.jpg логин пароль
+https://s.funpay.com/s/img/9m/8i/9m8ifxqkycm7vdwd3wug.jpg
+https://s.funpay.com/s/img/1m/o0/1mo0y46uha4jya76fql5.jpg
+https://s.funpay.com/s/img/wq/b9/wqb91gmc9jvyq5apotxu.jpg
+https://s.funpay.com/s/img/bv/ym/bvym25plxlwvqp8t7e79.jpg (The buyer Aryafym has confirmed that order #WKG3Q37E has been fulfilled successfully)
+https://s.funpay.com/s/img/yv/ze/yvzery2m8sywhkhikp74.jpg отзыв
