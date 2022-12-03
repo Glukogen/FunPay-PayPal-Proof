@@ -1028,3 +1028,23 @@ ___
 
 **Chat**: 
 https://s.funpay.com/s/img/w9/oq/w9oquulm560wx4ri7y86.jpg (in this screenshot, the buyer has paid for order #SE3PXR62 and confirmed that order.)  
+
+
+___
+
+### Transaction ID: 0VK03631UN932603V 
+
+**FunPay order number**: LYPP4JYA
+
+**PayPal order number**: 87141396UB191502N
+
+**Buyer**: [missblack](https://funpay.com/en/users/562433/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/ld/k1/ldk1gsnr2dmrabk2cmjo.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+https://s.funpay.com/s/img/kh/j9/khj943q221qxzaw7sgin.jpg (in this screenshot, the buyer has paid for order #LYPP4JYA and confirmed that order.)  
