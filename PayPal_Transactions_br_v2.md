@@ -1582,7 +1582,7 @@ Seller: [bookofra](https://funpay.com/en/users/2240069/)
 
 Overview: https://s.funpay.com/s/img/kp/qg/kpqgz5rj1bf0lomy8da4.jpg
 
-Detail: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order [CHARACTER NAME field](https://s.funpay.com/s/img/23/h6/23h6qjr1yx9v3sk62dbp.jpg)), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+Detail: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
 
 Buyer randommmm2 bought the same item many times from the seller bookofra. And, having thanked him, the buyer confirmed the deal and after some time returned to the seller bookofra for the goods again.
 
@@ -1608,7 +1608,7 @@ ___
 
 **Overview**: https://s.funpay.com/s/img/kp/qg/kpqgz5rj1bf0lomy8da4.jpg  
 
-**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order [CHARACTER NAME field](https://s.funpay.com/s/img/23/h6/23h6qjr1yx9v3sk62dbp.jpg)), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.  
+**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.  
 
 Buyer randommmm2 bought the same item many times from the seller bookofra. And, having thanked him, the buyer confirmed the deal and after some time returned to the seller bookofra for the goods again.  
 
@@ -1693,7 +1693,7 @@ ___
 
 **Overview**: https://s.funpay.com/s/img/os/ia/osiavfwpmdc1jh0ecsnu.jpg 
 
-**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order [CHARACTER NAME field](https://s.funpay.com/s/img/ew/0h/ew0hch8504jruwer1mtj.jpg)), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game. 
+**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game. 
 The customer has been buying a similar product on the site for a very long time. The buyer has about 130 successful transactions, he does not confirm the order if the item is not received.
 
 
