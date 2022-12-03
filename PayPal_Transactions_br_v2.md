@@ -1322,3 +1322,27 @@ ___
 
 https://s.funpay.com/s/img/7y/16/7y16188xt3gl1g6peh3h.jpg (buyer randommmm2 has paid for order #HKCGVYLH)  
 https://s.funpay.com/s/img/w2/rp/w2rpv8bg4a45xvrfm52i.jpg (buyer randommmm2 has confirmed that order #HKCGVYLH has been fulfilled successfully)  
+
+___
+
+### Transaction ID: 6SY58154W8997091R
+
+**FunPay order number**: XK1Y5283
+
+**PayPal order number**: 2DJ39068JB4208322
+
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
+
+**Seller**: [Shkyt](https://funpay.com/en/users/455548/)
+
+**Overview**: https://s.funpay.com/s/img/v2/9d/v29daqa51advb2r97ln7.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/km/le/kmlerfxt810bqiftn5zp.jpg (The buyer randommmm2 has paid for order #XK1Y5283)
+https://s.funpay.com/s/img/6q/g3/6qg3l8dqfhpjbkbmu5ec.jpg
+https://s.funpay.com/s/img/yq/up/yqupiuu3sqrzyz8p26n1.jpg (The buyer randommmm2 has confirmed that order #XK1Y5283 has been fulfilled successfully.)  
+
+___
