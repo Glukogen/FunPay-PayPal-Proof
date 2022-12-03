@@ -1070,3 +1070,20 @@ ___
 https://s.funpay.com/s/img/e1/wo/e1wow3eqczvin0an4ui9.jpg (in this screenshot, the buyer has paid for order #T69898JD and confirmed that order.)  
 
 ___
+
+### Transaction ID: 1HB240328D4931208 
+
+**FunPay order number**: UTMU441E
+
+**PayPal order number**: 5FH68838BR236101S
+
+**Buyer**: [Grigorius](https://funpay.com/en/users/22019/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/1w/2a/1w2acygznfk5vtwpjqkh.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+https://s.funpay.com/s/img/j9/8a/j98a4kz01wkvdxqasarw.jpg (in this screenshot, the buyer has paid for order #UTMU441E and confirmed that order.)  
