@@ -1383,4 +1383,24 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/r3/0u/r30uup0aycjoxs4mvlcu.jpg (in this screenshot, the buyer has paid for order #118129988 and confirmed that order.)  
+https://s.funpay.com/s/img/r3/0u/r30uup0aycjoxs4mvlcu.jpg (in this screenshot, the buyer has paid for order #JKGT1U62 and confirmed that order.)  
+
+___
+
+### Transaction ID: 1XA07920G19003613 
+
+**FunPay order number**: S7JL4UWE
+
+**PayPal order number**: 6H611361XE492230C	
+
+**Buyer**: [boris896](https://funpay.com/en/users/158806/)
+
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Overview**: https://s.funpay.com/s/img/ec/4a/ec4atzbwhoitw0mbzrni.jpg
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/bb/va/bbvax5099bxkdgtlvvgk.jpg (in this screenshot, the buyer has paid for order #S7JL4UWE and confirmed that order.)  
