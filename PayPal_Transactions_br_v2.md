@@ -1423,4 +1423,52 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/69/3v/693vivrx59x0v7x9tg4c.jpg (in this screenshot, the buyer has paid for order #W8JYERL1 and confirmed that order.)  
+https://s.funpay.com/s/img/69/3v/693vivrx59x0v7x9tg4c.jpg (in this screenshot, the buyer has paid for order #W8JYERL1 and confirmed that order.)  \
+
+___
+
+### Transaction ID: 7GX42494GV009090F 
+
+**FunPay order number**: ZDWHTMSB
+
+**PayPal order number**: 7B90343840970220B
+
+**Buyer**: [clevername0](https://funpay.com/en/users/4079272/)  
+
+**Seller**: [stendros](https://funpay.com/en/users/2136036/)  
+
+**Overview**: https://s.funpay.com/s/img/33/k8/33k8t8s751d52x4dur2a.jpg  
+
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/mk/sq/mksqva497oo1d4vqw8cu.jpg  
+https://s.funpay.com/s/img/hk/v1/hkv1f2tbmxbzmjmp4g58.jpg (in this screenshot,   buyer clevername0 has paid for order #ZDWHTMSB)  
+https://s.funpay.com/s/img/p5/1j/p51jqrpnmefk0z48mncr.jpg (in this screenshot,  buyer clevername0 has confirmed that order #ZDWHTMSB)  
+https://s.funpay.com/s/img/oz/qb/ozqb1fw2cdh64jsiujup.jpg  
+
+___
+
+### Transaction ID: 78X31050MY7225359 
+
+**FunPay order number**: RXJRMWQY
+
+**PayPal order number**: 3R318458BX167981T
+
+**Buyer**: [DeetzUser](https://funpay.com/en/users/3508136/)  
+
+**Seller**: [IYg](https://funpay.com/en/users/1699712/)  
+
+**Overview**: https://s.funpay.com/s/img/05/wn/05wnbf3ylb6q9e35q25b.jpg    
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.  
+
+**Chat**: 
+
+https://s.funpay.com/s/img/4v/cb/4vcbkoa52y07l2xzunzz.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1256299971&token=47HRHGk-) and paid for order #RXJRMWQY)  
+https://s.funpay.com/s/img/xy/xq/xyxq9t5t5n9jt16u39yy.jpg (in this screenshot,  buyer DeetzUser has confirmed that order #RXGHTF97)  
+
+**Video confirmation**: [https://youtu.be/x-PXAntEmNw](https://youtu.be/x-PXAntEmNw)  
+
+
