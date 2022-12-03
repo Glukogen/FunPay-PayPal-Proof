@@ -969,25 +969,19 @@ https://s.funpay.com/s/img/yv/ze/yvzery2m8sywhkhikp74.jpg (feedback of the order
 
 ___
 
-### Transaction ID: 2XD667400E291302D
+### Transaction ID: 718082050B071231V 
 
-**FunPay order number**: UUG4YMD6
+**FunPay order number**: D6K811SJ
 
-**PayPal order number**: 7VH422820W738861K
+**PayPal order number**: 06C2562108081842F
 
-**Buyer**: [Aryafym](https://funpay.com/users/5578571/)
+**Buyer**: [mirab](https://funpay.com/en/users/36382/)
 
-**Seller**: [Tokrik](https://funpay.com/en/users/2906316/)
+**Seller**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Overview**: https://s.funpay.com/s/img/vs/12/vs123sxcc8ej9gmnm7gb.jpg
+**Overview**: https://s.funpay.com/s/img/a7/of/a7ofg77lnm5drtncjl1l.jpg
 
-**Detail**: Ordering is carried out as follows: the seller gave out account data and helped to relink the account to the buyer.
+**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
 
 **Chat**: 
-
-https://s.funpay.com/s/img/9o/nm/9onm4nk95xnz5pjimsc2.jpg (buyer Aryafym has paid for order #UUG4YMD6)  
-https://s.funpay.com/s/img/1j/hl/1jhlzjeo5a54pio7190p.jpg  
-https://s.funpay.com/s/img/dk/yl/dkylp5zyf3czhz7offsd.jpg (the seller sent the login and password of the account, the buyer Aryafym has confirmed that order #UUG4YMD6 has been fulfilled successfully)  
-https://s.funpay.com/s/img/yp/nw/ypnw6ucd0eb37rju9j3a.jpg (feedback of the order #UUG4YMD6)  
-
-___
+https://s.funpay.com/s/img/ax/3c/ax3c2vc0upjszryex8ak.jpg in this screenshot, the buyer has paid for order #D6K811SJ and confirmed that order.
