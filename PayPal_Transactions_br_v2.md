@@ -938,13 +938,6 @@ ___
 [https://s.funpay.com/s/img/1f/ze/1fzeokyyqqo47ix0kunl.jpg](https://s.funpay.com/s/img/1f/ze/1fzeokyyqqo47ix0kunl.jpg)(buyer javascripts has confirmed that order #F2XSC5L)
 
 **Video confirmation**: [https://youtu.be/1jgXS_OzBjY](https://youtu.be/1jgXS_OzBjY)
-___
-
-### Transaction ID: 78X31050MY7225359
-
-**FunPay order number**: RXJRMWQY
-
-**PayPal order number**: 3R318458BX167981T
 
 ___
 
@@ -964,12 +957,14 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/tw/co/twco51mk6k75m4hhuzv2.jpg
-https://s.funpay.com/s/img/5a/wc/5awcs9cixbnk993vnlgo.jpg
-https://s.funpay.com/s/img/po/cp/pocpaeidfmukngqcrjnn.jpg (buyer Aryafym has paid for order #F2XSC5L9)
-https://s.funpay.com/s/img/0a/48/0a48vmvhjp2uppaauzi5.jpg логин пароль
-https://s.funpay.com/s/img/9m/8i/9m8ifxqkycm7vdwd3wug.jpg
-https://s.funpay.com/s/img/1m/o0/1mo0y46uha4jya76fql5.jpg
-https://s.funpay.com/s/img/wq/b9/wqb91gmc9jvyq5apotxu.jpg
-https://s.funpay.com/s/img/bv/ym/bvym25plxlwvqp8t7e79.jpg (The buyer Aryafym has confirmed that order #WKG3Q37E has been fulfilled successfully)
-https://s.funpay.com/s/img/yv/ze/yvzery2m8sywhkhikp74.jpg отзыв
+https://s.funpay.com/s/img/tw/co/twco51mk6k75m4hhuzv2.jpg  
+https://s.funpay.com/s/img/5a/wc/5awcs9cixbnk993vnlgo.jpg  
+https://s.funpay.com/s/img/po/cp/pocpaeidfmukngqcrjnn.jpg (buyer Aryafym has paid for order #F2XSC5L9)  
+https://s.funpay.com/s/img/0a/48/0a48vmvhjp2uppaauzi5.jpg (The seller sent the login and password of the account)  
+https://s.funpay.com/s/img/9m/8i/9m8ifxqkycm7vdwd3wug.jpg  
+https://s.funpay.com/s/img/1m/o0/1mo0y46uha4jya76fql5.jpg  
+https://s.funpay.com/s/img/wq/b9/wqb91gmc9jvyq5apotxu.jpg  
+https://s.funpay.com/s/img/bv/ym/bvym25plxlwvqp8t7e79.jpg (The buyer Aryafym has confirmed that order #WKG3Q37E has been fulfilled successfully)  
+https://s.funpay.com/s/img/yv/ze/yvzery2m8sywhkhikp74.jpg (feedback of the order #WKG3Q37E)
+
+___
