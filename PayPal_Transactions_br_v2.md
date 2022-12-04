@@ -1004,9 +1004,9 @@ ___
 
 **PayPal order number**: 06C2562108081842F
 
-**Buyer**: [mirab](https://funpay.com/en/users/36382/)
+**Seller**: [mirab](https://funpay.com/en/users/36382/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
 **Overview**: https://s.funpay.com/s/img/a7/of/a7ofg77lnm5drtncjl1l.jpg
 
@@ -1024,9 +1024,9 @@ ___
 
 **PayPal order number**: 05T2082241667154F
 
-**Buyer**: [MoneyMouse](https://funpay.com/en/users/152627/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [MoneyMouse](https://funpay.com/en/users/152627/)
 
 **Overview**: https://s.funpay.com/s/img/iv/na/ivnaden0krhfgz405tdo.jpg
 
@@ -1046,9 +1046,9 @@ ___
 
 **PayPal order number**: 87141396UB191502N
 
-**Buyer**: [missblack](https://funpay.com/en/users/562433/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [missblack](https://funpay.com/en/users/562433/)
 
 **Overview**: https://s.funpay.com/s/img/ld/k1/ldk1gsnr2dmrabk2cmjo.jpg
 
