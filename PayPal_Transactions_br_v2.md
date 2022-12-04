@@ -1295,12 +1295,12 @@ ___
 
 **Overview**: https://s.funpay.com/s/img/be/11/be11a9x1d92cmft6nn48.jpg
 
-**Detail**: The order is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+**Detail**: Ordering is carried out as follows: the seller gave out account data, the buyer checks the data and confirms the order.
 
 **Chat**: 
 
-https://s.funpay.com/s/img/aw/nn/awnnvz30y3tolzbbytpl.jpg (buyer randommmm2 has paid for order #EJWDJK8M)  
-https://s.funpay.com/s/img/xu/ox/xuoxeq26lvirpovd2tgo.jpg (buyer randommmm2 has confirmed that order #EJWDJK8M has been fulfilled successfully)  
+https://s.funpay.com/s/img/aw/nn/awnnvz30y3tolzbbytpl.jpg (buyer randommmm2 has paid for order #EJWDJK8M and the seller gave out account login)  
+https://s.funpay.com/s/img/xu/ox/xuoxeq26lvirpovd2tgo.jpg (the seller gave out account password and buyer randommmm2 has confirmed that order #EJWDJK8M has been fulfilled successfully)   
 
 ___
 
