@@ -1127,9 +1127,9 @@ ___
 
 **PayPal order number**: 2V2097387S2926543
 
-**Buyer**: [ppxh](https://funpay.com/en/users/73633/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [ppxh](https://funpay.com/en/users/73633/)
 
 **Overview**: https://s.funpay.com/s/img/pu/bk/pubkf3xuflenxm3qf8yh.jpg
 
@@ -1169,9 +1169,9 @@ ___
 
 **PayPal order number**: 7LU34720BL9888143
 
-**Buyer**: [MayoMan](https://funpay.com/en/users/1839585/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [MayoMan](https://funpay.com/en/users/1839585/)
 
 **Overview**: https://s.funpay.com/s/img/sa/f6/saf6dxh2tx5jtj78dsuy.jpg
 
@@ -1190,9 +1190,9 @@ ___
 
 **PayPal order number**: 9R157773XR4266109
 
-**Buyer**: [paulveentego](https://funpay.com/en/users/2033709/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [paulveentego](https://funpay.com/en/users/2033709/)
 
 **Overview**: https://s.funpay.com/s/img/xs/22/xs22gvbvyr4z0i4ymp3k.jpg
 
@@ -1231,9 +1231,9 @@ ___
 
 **PayPal order number**: 7HL018706L475945G
 
-**Buyer**: [MisterPi](https://funpay.com/en/users/36330/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [MisterPi](https://funpay.com/en/users/36330/)
 
 **Overview**: https://s.funpay.com/s/img/1g/9z/1g9zyl85mhel5e5il6yq.jpg
 
@@ -1291,9 +1291,9 @@ ___
 
 **PayPal order number**: 2KC92759VE521540G	
 
-**Buyer**: [GdeNasNet](https://funpay.com/en/users/184849/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [GdeNasNet](https://funpay.com/en/users/184849/)
 
 **Overview**: https://s.funpay.com/s/img/be/11/be11a9x1d92cmft6nn48.jpg
 
@@ -1312,9 +1312,9 @@ ___
 
 **PayPal order number**: 0GN76843CP773082A	
 
-**Buyer**: [vvpgaming](https://funpay.com/en/users/340164/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [vvpgaming](https://funpay.com/en/users/340164/)
 
 **Overview**: https://s.funpay.com/s/img/tr/zu/trzufirrhlsbf6do79md.jpg
 
@@ -1343,11 +1343,11 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/km/le/kmlerfxt810bqiftn5zp.jpg (The buyer randommmm2 has paid for order #XK1Y5283)
-https://s.funpay.com/s/img/6q/g3/6qg3l8dqfhpjbkbmu5ec.jpg
+https://s.funpay.com/s/img/km/le/kmlerfxt810bqiftn5zp.jpg (The buyer randommmm2 has paid for order #XK1Y5283)  
+https://s.funpay.com/s/img/6q/g3/6qg3l8dqfhpjbkbmu5ec.jpg  
 https://s.funpay.com/s/img/yq/up/yqupiuu3sqrzyz8p26n1.jpg (The buyer randommmm2 has confirmed that order #XK1Y5283 has been fulfilled successfully.)  
 
-**video confirmation**: https://www.youtube.com/watch?v=EmFGcSmF5RM
+**video confirmation**: https://youtu.be/EmFGcSmF5RM
 
 ___
 
@@ -1377,9 +1377,9 @@ ___
 
 **PayPal order number**: 6WT84796DA426344U	
 
-**Buyer**: [tikitaki30](https://funpay.com/en/users/4318515/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [tikitaki30](https://funpay.com/en/users/4318515/)
 
 **Overview**: https://s.funpay.com/s/img/wy/o8/wyo8r678lh6uzhupzmea.jpg
 
@@ -1397,9 +1397,9 @@ ___
 
 **PayPal order number**: 6H611361XE492230C	
 
-**Buyer**: [boris896](https://funpay.com/en/users/158806/)
+**Seller**: [boris896](https://funpay.com/en/users/158806/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
 **Overview**: https://s.funpay.com/s/img/ec/4a/ec4atzbwhoitw0mbzrni.jpg
 
@@ -1417,9 +1417,9 @@ ___
 
 **PayPal order number**: 35H37584KH539235N	
 
-**Buyer**: [Bistrogo](https://funpay.com/en/users/2621363/)
+**Seller**: [Bistrogo](https://funpay.com/en/users/2621363/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
 
 **Overview**: https://s.funpay.com/s/img/uk/ua/ukuazti3hvs8bxggrm7w.jpg
 
@@ -1427,7 +1427,7 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/69/3v/693vivrx59x0v7x9tg4c.jpg (in this screenshot, the buyer has paid for order #W8JYERL1 and confirmed that order.)  \
+https://s.funpay.com/s/img/69/3v/693vivrx59x0v7x9tg4c.jpg (in this screenshot, the buyer has paid for order #W8JYERL1 and confirmed that order.)  
 
 ___
 
@@ -1487,9 +1487,9 @@ ___
 
 **Sellers**: 
 
-[TrueFighter](https://funpay.com/en/users/17500/)
-[pbmzk](https://funpay.com/en/users/1042742/)
-[qqsoulfly](https://funpay.com/en/users/4075147/)
+[TrueFighter](https://funpay.com/en/users/17500/)  
+[pbmzk](https://funpay.com/en/users/1042742/)  
+[qqsoulfly](https://funpay.com/en/users/4075147/)  
 
 **Overview**: 
 
@@ -1693,11 +1693,11 @@ ___
 
 **Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)  
 
-**Sentiments**: [bookofra](https://funpay.com/en/users/2240069/)  
+**Seller**: [Sentiments](https://funpay.com/en/users/2648095/)  
 
 **Overview**: https://s.funpay.com/s/img/os/ia/osiavfwpmdc1jh0ecsnu.jpg 
 
-**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game. 
+**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.  
 The customer has been buying a similar product on the site for a very long time. The buyer has about 130 successful transactions, he does not confirm the order if the item is not received.
 
 
