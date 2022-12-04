@@ -245,7 +245,7 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/hm/7q/hm7qws8z6bc80n4ra4kq.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1253674532&token=K87TMcVi), and also has paid for order #S4567ZHD and has confirmed that order #S4567ZHD has been fulfilled successfully and that the seller ZuhnTomb has been paid)  
+https://s.funpay.com/s/img/hm/7q/hm7qws8z6bc80n4ra4kq.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1253674532&token=K87TMcVi), and also has paid for order #S4567ZHD and has confirmed that order #S4567ZHD)  
 https://s.funpay.com/s/img/if/ds/ifdsp4ebym3i2a90in27.jpg  
 https://s.funpay.com/s/img/ux/4z/ux4zv3annn2ccx53c46p.jpg  
 https://s.funpay.com/s/img/fm/vw/fmvwqfuuwkupta6i9wk4.jpg  
