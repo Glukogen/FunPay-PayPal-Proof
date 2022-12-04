@@ -1717,7 +1717,7 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/ja/4k/ja4kqgyz23h7fge0ezeq.jpg (in this screenshotorder refund)  
+https://s.funpay.com/s/img/ja/4k/ja4kqgyz23h7fge0ezeq.jpg (in this screenshot order refund)  
 
 ___
 
@@ -1805,4 +1805,4 @@ ___
 
 **Chat**:   
 
-https://s.funpay.com/s/img/tl/nq/tlnqe3016kjuvpiuek4k.jpg (in this screenshotorder refund)
+https://s.funpay.com/s/img/tl/nq/tlnqe3016kjuvpiuek4k.jpg (in this screenshot order refund)
