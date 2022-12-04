@@ -1036,6 +1036,8 @@ ___
 
 https://s.funpay.com/s/img/w9/oq/w9oquulm560wx4ri7y86.jpg (in this screenshot, the buyer has paid for order #SE3PXR62 and confirmed that order.)  
 
+**Screenshot confirmation**: https://s.funpay.com/s/chat/0v/4d/0v4dq664hk7v908rh8wt.jpg
+
 ___
 
 ### Transaction ID: 0VK03631UN932603V 
