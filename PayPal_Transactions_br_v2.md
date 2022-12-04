@@ -1529,6 +1529,8 @@ https://s.funpay.com/s/img/rj/lg/rjlgtspfepn7i2i3o5es.jpg (in this screenshot, t
 *order #YGLPP5WU*:
 https://s.funpay.com/s/img/ls/ej/lsejziw9cum6ojdxjtbb.jpg (in this screenshot, the buyer has paid for order #YGLPP5WU and confirmed that order.)  
 
+**Screenshot confirmation**: *order #FRWQE2TZ*: https://s.funpay.com/s/chat/q9/tb/q9tbaqkxpvaso6v8hoqb.jpg  
+
 ___
 
 ### Transaction ID: 37M07057R0036314H
