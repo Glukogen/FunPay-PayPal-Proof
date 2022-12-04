@@ -1086,9 +1086,9 @@ ___
 
 **PayPal order number**: 6V100822NG904263G
 
-**Buyer**: [Grigorius](https://funpay.com/en/users/22019/)
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
 
-**Seller**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [Grigorius](https://funpay.com/en/users/22019/)
 
 **Overview**: https://s.funpay.com/s/img/1w/2a/1w2acygznfk5vtwpjqkh.jpg
 
