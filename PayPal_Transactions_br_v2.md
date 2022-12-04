@@ -1744,4 +1744,50 @@ ___
 **Chat**: 
 
 https://s.funpay.com/s/img/ja/4k/ja4kqgyz23h7fge0ezeq.jpg (in this screenshotorder refund)  
+
+___
+
+### Transaction ID: 8KM499919Y265730M 
+
+**FunPay order number**: YA1UGQ84
+
+**PayPal order number**: 10426524XE198080C
+
+**Buyer**: [RashidShikhveled0v](https://funpay.com/en/users/4581137/)
+
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)
+
+**Overview**: https://s.funpay.com/s/img/jn/gx/jngx7sywg6mu7e891hoa.jpg
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/h6/pa/h6paae8msxr9u84gk1it.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1253674532&token=K87TMcVi))  
+https://s.funpay.com/s/img/rt/6r/rt6rcyhukhbx7ib2s145.jpg  
+https://s.funpay.com/s/img/se/0x/se0xh8ez7mr845mry5p6.jpg  
+https://s.funpay.com/s/img/rn/3i/rn3ifwqmqvcgsa8k95f8.jpg (in this screenshot buyer RashidShikhveled0v has paid for order #YA1UGQ84)  
+https://s.funpay.com/s/img/ek/vu/ekvu676pwv1zm6uuu4xy.jpg (in this screenshot, buyer RashidShikhveled0v has confirmed that order #YA1UGQ84)  
+https://s.funpay.com/s/img/1p/ib/1pibvsl9ybi22mgq0b5t.jpg  
+https://s.funpay.com/s/img/i7/98/i798tkwfzlywg9b78bsf.jpg  
+https://s.funpay.com/s/img/ep/36/ep36k521iox4g8bh0qch.jpg  
+https://s.funpay.com/s/img/7d/vz/7dvzuz119nej9lgg3qgb.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1279878922&token=YMhpZcq2))  
+https://s.funpay.com/s/img/um/05/um05hy5r6uu0jwhfluaj.jpg  
+https://s.funpay.com/s/img/8l/xk/8lxkogdhwssat1wj7bh2.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1281238423&token=tT79sjEZ))  
+https://s.funpay.com/s/img/h8/q3/h8q3mg3uu6z9qz4i69k6.jpg  
+https://s.funpay.com/s/img/4z/7u/4z7u40drnx1oewte1tbt.jpg  
+https://s.funpay.com/s/img/3d/p5/3dp5ttg61qobjrsnr7sp.jpg (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1253674532&token=K87TMcVi))  
+https://s.funpay.com/s/img/jj/or/jjorxspr1b81qrtp8ix1.jpg  
+https://s.funpay.com/s/img/s4/z3/s4z314pio9e2k83rsx24.jpg  
+https://s.funpay.com/s/img/wz/8n/wz8nw3x0aui51ppxwxvb.jpg  
+https://s.funpay.com/s/img/mb/hp/mbhph9rqae79y9e5l4kx.jpg  
+https://s.funpay.com/s/img/dk/49/dk49fkheh45f296bvos9.jpg  
+https://s.funpay.com/s/img/0p/tw/0ptw27j086kwlqzk9jdk.jpg  
+https://s.funpay.com/s/img/5h/e6/5he6bzg7e7vwtfjv6qhr.jpg  
+https://s.funpay.com/s/img/cj/t2/cjt23y1u2gx71kla5bpe.jpg  
+https://s.funpay.com/s/img/9s/ed/9sed2egxwfjxbtg3jurc.jpg  
+https://s.funpay.com/s/img/xa/ai/xaaidzn1mezq17kmigyh.jpg  
+
+**Video confirmation**: [https://youtu.be/5DRuRYPeOhA](https://youtu.be/5DRuRYPeOhA)
+  
  
