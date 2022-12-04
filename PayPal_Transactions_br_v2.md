@@ -1200,8 +1200,8 @@ ___
 
 **Chat**:
 
-https://s.funpay.com/s/img/z0/w3/z0w3h93n23obp27fhq42.jpg
-https://s.funpay.com/s/img/3a/90/3a909lx4u89lprjo9t85.jpg (in this screenshot, the buyer has paid for order #KF8BMHCF and confirmed that order.)  
+https://s.funpay.com/s/img/z0/w3/z0w3h93n23obp27fhq42.jpg  
+https://s.funpay.com/s/img/3a/90/3a909lx4u89lprjo9t85.jpg (in this screenshot, the buyer has paid for order #KF8BMHCF and confirmed that order.)   
 
 ___
 
