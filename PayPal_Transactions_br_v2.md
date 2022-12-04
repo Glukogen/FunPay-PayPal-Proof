@@ -1397,9 +1397,9 @@ ___
 
 **PayPal order number**: 6H611361XE492230C	
 
-**Seller**: [boris896](https://funpay.com/en/users/158806/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)  
 
-**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [boris896](https://funpay.com/en/users/158806/)
 
 **Overview**: https://s.funpay.com/s/img/ec/4a/ec4atzbwhoitw0mbzrni.jpg
 
@@ -1417,9 +1417,9 @@ ___
 
 **PayPal order number**: 35H37584KH539235N	
 
-**Seller**: [Bistrogo](https://funpay.com/en/users/2621363/)
+**Buyer**: [randommmm2](https://funpay.com/users/2040243/)  
 
-**Buyer**: [randommmm2](https://funpay.com/users/2040243/)
+**Seller**: [Bistrogo](https://funpay.com/en/users/2621363/)  
 
 **Overview**: https://s.funpay.com/s/img/uk/ua/ukuazti3hvs8bxggrm7w.jpg
 
