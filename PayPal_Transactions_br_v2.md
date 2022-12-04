@@ -563,7 +563,7 @@ https://s.funpay.com/s/img/3e/d5/3ed5awya0n6jk2pakz34.jpg
 https://s.funpay.com/s/img/oc/pf/ocpf4c8yjodnalsm1fm1.jpg 
 
 
-Video confirmation: [https://youtu.be/iOFczfR3q8Y] (https://youtu.be/iOFczfR3q8Y)
+Video confirmation: (https://youtu.be/iOFczfR3q8Y)
 
 ___
 ### Transaction ID: 15M750955F329405T
