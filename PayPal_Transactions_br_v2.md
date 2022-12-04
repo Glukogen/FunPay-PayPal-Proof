@@ -685,10 +685,10 @@ ___
 
 **Chat**: 
 
-https://s.funpay.com/s/img/ma/on/maonljwpjyu6esrs00lm.jpg (in this screenshot, the buyer DeetzUser has paid for order #UTNQT6DJ and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1256299971&token=47HRHGk-) and cofirmed that order)  
-https://s.funpay.com/s/img/wr/rg/wrrgxsohomx88ozbdytw.jpg  
-https://s.funpay.com/s/img/1q/cf/1qcf3b0ylbfpe2wgdbty.jpg  
-https://s.funpay.com/s/img/i5/10/i510un588zvinzviddy5.jpg
+https://s.funpay.com/s/img/ma/on/maonljwpjyu6esrs00lm.jpg (in this screenshot, the buyer sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1256299971&token=47HRHGk-)   
+https://s.funpay.com/s/img/wr/rg/wrrgxsohomx88ozbdytw.jpg      
+https://s.funpay.com/s/img/1q/cf/1qcf3b0ylbfpe2wgdbty.jpg (in this screenshot, the buyer DeetzUser has paid for order #UTNQT6DJ)    
+https://s.funpay.com/s/img/i5/10/i510un588zvinzviddy5.jpg (in this screenshot, buyer DeetzUser has given feedback to the order #UTNQT6DJ)  
 
 **Video confirmation**: https://youtu.be/JnUE_lK0piM
 ___
