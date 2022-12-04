@@ -1790,4 +1790,25 @@ https://s.funpay.com/s/img/xa/ai/xaaidzn1mezq17kmigyh.jpg
 
 **Video confirmation**: [https://youtu.be/5DRuRYPeOhA](https://youtu.be/5DRuRYPeOhA)
   
- 
+___
+
+### Transaction ID: 7LA300274H524610C
+
+**FunPay order number**: WP1XHZT4
+
+**PayPal order number**: 4AW64613SJ066442R
+
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
+
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)
+
+**Overview**: https://s.funpay.com/s/img/h3/ca/h3caw8y8ggnezks9h814.jpg
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/5m/71/5m7192rr6ylah8ipxzhc.jpg (in this screenshot, the buyer javascripts has paid for order #WP1XHZT4 and has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=aMw47eW_))  
+https://s.funpay.com/s/img/ci/we/ciwe7z51za1yjj8rub7g.jpg (The buyer javascripts has confirmed that order #WP1XHZT4 has been fulfilled successfully)  
+
+**Video confirmation**: 
