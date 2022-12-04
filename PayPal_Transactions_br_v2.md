@@ -1811,4 +1811,4 @@ ___
 https://s.funpay.com/s/img/5m/71/5m7192rr6ylah8ipxzhc.jpg (in this screenshot, the buyer javascripts has paid for order #WP1XHZT4 and has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=aMw47eW_))  
 https://s.funpay.com/s/img/ci/we/ciwe7z51za1yjj8rub7g.jpg (The buyer javascripts has confirmed that order #WP1XHZT4 has been fulfilled successfully)  
 
-**Video confirmation**: 
+**Video confirmation**: https://youtu.be/7byyxMHGsSg
