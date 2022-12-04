@@ -1785,4 +1785,24 @@ ___
 https://s.funpay.com/s/img/5m/71/5m7192rr6ylah8ipxzhc.jpg (in this screenshot, the buyer javascripts has paid for order #WP1XHZT4 and has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=aMw47eW_))  
 https://s.funpay.com/s/img/ci/we/ciwe7z51za1yjj8rub7g.jpg (The buyer javascripts has confirmed that order #WP1XHZT4 has been fulfilled successfully)  
 
-**Video confirmation**: https://youtu.be/7byyxMHGsSg
+**Video confirmation**: https://youtu.be/7byyxMHGsSg  
+
+___
+
+### Transaction ID: 63357231KD302710S
+
+**FunPay order number**: LA8EGPGZ
+
+**PayPal order number**: 8LJ63230DH3611936
+
+**Buyer**: [RashidShikhveled0v](https://funpay.com/en/users/4581137/)
+
+**Seller**: [csfreeskins](https://funpay.com/en/users/515637/)
+
+**Overview**: https://s.funpay.com/s/img/w3/cn/w3cnwvshjpn9oggnh80a.jpg  
+
+**Detail**: The order was returned.
+
+**Chat**:   
+
+https://s.funpay.com/s/img/tl/nq/tlnqe3016kjuvpiuek4k.jpg (in this screenshotorder refund)
