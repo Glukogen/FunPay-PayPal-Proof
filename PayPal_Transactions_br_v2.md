@@ -1703,7 +1703,7 @@ The customer has been buying a similar product on the site for a very long time.
 
 **Chat**: 
 
-https://s.funpay.com/s/img/r0/v1/r0v1rmrfqglarknnr805.jpg (in this screenshot,buyer randommmm2 has paid and confirmed that order #P5PM8RXG)  
+https://s.funpay.com/s/img/r0/v1/r0v1rmrfqglarknnr805.jpg (in this screenshot, buyer randommmm2 has paid and confirmed that order #P5PM8RXG)  
 
 ___
 
