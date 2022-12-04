@@ -1004,9 +1004,9 @@ ___
 
 **PayPal order number**: 06C2562108081842F
 
-**Seller**: [mirab](https://funpay.com/en/users/36382/)
-
 **Buyer**: [randommmm2](https://funpay.com/users/2040243/)
+
+**Seller**: [mirab](https://funpay.com/en/users/36382/)
 
 **Overview**: https://s.funpay.com/s/img/a7/of/a7ofg77lnm5drtncjl1l.jpg
 
