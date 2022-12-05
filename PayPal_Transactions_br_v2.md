@@ -1806,3 +1806,20 @@ ___
 **Chat**:   
 
 https://s.funpay.com/s/img/tl/nq/tlnqe3016kjuvpiuek4k.jpg (in this screenshot order refund)
+
+
+___
+
+### Transaction ID: 4YH98701E64791901 
+
+**FunPay order number**: M93SF46W
+
+**PayPal order number**: 3TR68674TS557771W	
+
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
+
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)
+
+**Overview**: https://s.funpay.com/s/img/e3/05/e3051cfn00896nt9pmp0.jpg
+
+**Detail**: The order was not paid because of the Pending status. 
