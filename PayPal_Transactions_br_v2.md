@@ -1823,3 +1823,26 @@ ___
 **Overview**: https://s.funpay.com/s/img/e3/05/e3051cfn00896nt9pmp0.jpg
 
 **Detail**: The order was not paid because of the Pending status. 
+
+
+____
+
+### Transaction ID: 73Y31491WF514212J 
+
+**FunPay order number**: Y9D9FR2C
+
+**PayPal order number**: 3TR68674TS557771W	
+
+**Buyer**: [Lose123](https://funpay.com/en/users/2347861/)
+
+**Seller**: [solair](https://funpay.com/en/users/52565/)
+
+**Overview**: https://s.funpay.com/s/img/9w/j9/9wj9pxtydwg15mvjakki.jpg
+
+**Detail**: Ordering is carried out as follows: the buyer gives the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+ 
+ Chat: 
+ 
+ https://s.funpay.com/s/img/08/az/08azglogznwzgh0zmk91.jpg
+ https://s.funpay.com/s/img/2h/g2/2hg2hau0yqsf68mmes9f.jpg
+ https://s.funpay.com/s/img/jf/xb/jfxbjkb429rmlx18qhqb.jpg (in this screenshot, the buyer has paid for order #Y9D9FR2C and confirmed that order.)  
