@@ -1843,6 +1843,6 @@ ____
  
  Chat: 
  
- https://s.funpay.com/s/img/08/az/08azglogznwzgh0zmk91.jpg
- https://s.funpay.com/s/img/2h/g2/2hg2hau0yqsf68mmes9f.jpg
+ https://s.funpay.com/s/img/08/az/08azglogznwzgh0zmk91.jpg  
+ https://s.funpay.com/s/img/2h/g2/2hg2hau0yqsf68mmes9f.jpg  
  https://s.funpay.com/s/img/jf/xb/jfxbjkb429rmlx18qhqb.jpg (in this screenshot, the buyer has paid for order #Y9D9FR2C and confirmed that order.)  
