@@ -1848,3 +1848,23 @@ ____
  https://s.funpay.com/s/img/jf/xb/jfxbjkb429rmlx18qhqb.jpg (in this screenshot, the buyer has paid for order #Y9D9FR2C and confirmed that order.)  
  
  ___
+
+### Transaction ID: 4KU14342KG093681P
+
+**FunPay order number**: RYGGURKG
+
+**PayPal order number**: 16F58441P5551990J 
+
+**Buyer**: [DeetzUser](https://funpay.com/users/2988807/)
+
+**Seller**: [Alexsandr1234](https://funpay.com/users/124696/)
+
+**Overview**: https://s.funpay.com/s/img/b4/2a/b42auf9obfncg8z33tpc.jpg
+
+**Detail**: The ordering process is as follows: the buyer provides the seller with his trade link, and then the seller gives the buyer the purchased goods, the order form involves placing [exchange link](https://s.funpay.com/s/img/t3/bw/t3bwmuppjm87sp4jlmj5.jpg) directly at checkout. 
+
+**Chat**: 
+
+https://s.funpay.com/s/img/xf/yq/xfyqhcsrd47imin3674r.jpg (in this screenshot, the buyer DeetzUser has paid for order #RYGGURKG and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1256299971&token=47HRHGk-) and paid for order #RYGGURKG)  
+https://s.funpay.com/s/img/cf/c5/cfc5ml29q8q7re1ch218.jpg (in this screenshot,buyer DeetzUser has confirmed that order #RYGGURKG)  
+
