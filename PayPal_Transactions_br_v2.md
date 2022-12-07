@@ -1855,9 +1855,9 @@ ____
 
 **PayPal order number**: 16F58441P5551990J 
 
-**Buyer**: [DeetzUser](https://funpay.com/users/2988807/)
+**Buyer**: [DeetzUser](https://funpay.com/en/users/3508136/)
 
-**Seller**: [Alexsandr1234](https://funpay.com/users/124696/)
+**Seller**: [Alexsandr1234](https://funpay.com/en/users/2988807/)
 
 **Overview**: https://s.funpay.com/s/img/b4/2a/b42auf9obfncg8z33tpc.jpg
 
@@ -1867,4 +1867,3 @@ ____
 
 https://s.funpay.com/s/img/xf/yq/xfyqhcsrd47imin3674r.jpg (in this screenshot, the buyer DeetzUser has paid for order #RYGGURKG and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1256299971&token=47HRHGk-) and paid for order #RYGGURKG)  
 https://s.funpay.com/s/img/cf/c5/cfc5ml29q8q7re1ch218.jpg (in this screenshot,buyer DeetzUser has confirmed that order #RYGGURKG)  
-
