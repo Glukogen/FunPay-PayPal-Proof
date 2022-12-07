@@ -1866,4 +1866,30 @@ ____
 **Chat**: 
 
 https://s.funpay.com/s/img/xf/yq/xfyqhcsrd47imin3674r.jpg (in this screenshot, the buyer DeetzUser has paid for order #RYGGURKG and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1256299971&token=47HRHGk-) and paid for order #RYGGURKG)  
-https://s.funpay.com/s/img/cf/c5/cfc5ml29q8q7re1ch218.jpg (in this screenshot,buyer DeetzUser has confirmed that order #RYGGURKG)  
+https://s.funpay.com/s/img/cf/c5/cfc5ml29q8q7re1ch218.jpg (in this screenshot, buyer DeetzUser has confirmed that order #RYGGURKG)  
+
+___
+
+### Transaction ID: 2TX463354Y891173H
+
+**FunPay order number**: JVVAC2BN
+
+**PayPal order number**: 57J59835T78901648 
+
+**Buyer**: [DeetzUser](https://funpay.com/en/users/3508136/)
+
+**Seller**: [StoreTM](https://funpay.com/en/users/4695599/)
+
+**Overview**: https://s.funpay.com/s/img/ab/05/ab0519fohuqbnturjpoq.jpg  
+https://s.funpay.com/s/img/1v/xn/1vxn3ik4wwgbkbrx5r52.jpg  
+
+**Detail**: The ordering process is as follows: the buyer informs the seller about his account data in the Discord chat, the seller arranges the NITRO subscription with activation/
+
+**Chat**: 
+
+https://s.funpay.com/s/img/38/16/3816dxwrtkuxsqv9wi5b.jpg (in this screenshot, buyer DeetzUser has paid for order #JVVAC2BN and provides his Discord account login)  
+https://s.funpay.com/s/img/k5/b5/k5b5av6ll98aytguu7cd.jpg (in this screenshot, the seller provides proof of completion of the order, and the buyer DeetzUser confirmed the order #JVVAC2BN)  
+
+**Screenshot confirmation**:
+
+https://s.funpay.com/s/chat/5p/b1/5pb1kbyl4qg0yaow2g8r.jpg 
