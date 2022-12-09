@@ -310,19 +310,19 @@ ___
 
 ### Transaction ID: 0GA95724AA072524Y
 
-FunPay order number: ZNS8W5T3
+**FunPay order number**: ZNS8W5T3
 
-PayPal order number: 1Y996967TM922963G
+**PayPal order number**: 1Y996967TM922963G
 
-Buyer: [javascripts](https://funpay.com/en/users/2425911/)
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
 
-Seller: [maksimsendrou](https://funpay.com/en/users/124696/)
+**Seller**: [maksimsendrou](https://funpay.com/en/users/124696/)
 
-Overview: https://s.funpay.com/s/img/2o/sm/2osmestmdk5hh1efishv.jpg
+**Overview**: https://s.funpay.com/s/img/2o/sm/2osmestmdk5hh1efishv.jpg
 
-Detail: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
 
-Chat: 
+**Chat**: 
 [https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg](https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg) (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=Bea7sa-z))  
 [https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg](https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg)  
 [https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg](https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg)  
@@ -335,7 +335,7 @@ Chat:
 [https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg](https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg)  
 [https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg](https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg)
 
-Video confirmation: [https://youtu.be/DVRPS-y9l-k](https://youtu.be/DVRPS-y9l-k)
+**Video confirmation**: [https://youtu.be/DVRPS-y9l-k](https://youtu.be/DVRPS-y9l-k)
 
 ___
 ### Transaction ID: 7261172739088151B
@@ -370,19 +370,19 @@ ___
 ___
 ### Transaction ID: 5MA382479B461990F 
 
-FunPay order number: FWUQ1DBU
+**FunPay order number**: FWUQ1DBU
 
-PayPal order number: 0YT93161EH702005M
+**PayPal order number**: 0YT93161EH702005M
 
-Buyer: [javascripts](https://funpay.com/en/users/2425911/)
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
 
-Seller: [maksimsendrou](https://funpay.com/en/users/124696/)
+**Seller**: [maksimsendrou](https://funpay.com/en/users/124696/)
 
-Overview: https://s.funpay.com/s/img/24/wk/24wky0xpraxjdfe7u79v.jpg
+**Overview**: https://s.funpay.com/s/img/24/wk/24wky0xpraxjdfe7u79v.jpg
 
-Detail: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
 
-Chat: 
+**Chat**: 
 [https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg](https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg) (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=Bea7sa-z))  
 [https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg](https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg)  
 [https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg](https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg)  
@@ -395,7 +395,7 @@ Chat:
 [https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg](https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg) (buyer javascripts has paid for order #FWUQ1DBU)  
 [https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg](https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg) (buyer javascripts has confirmed that order #FWUQ1DBU has been fulfilled successfully)
 
-Video confirmation: [https://youtu.be/_SG3Q2Jgwc8](https://youtu.be/_SG3Q2Jgwc8)
+**Video confirmation**: [https://youtu.be/_SG3Q2Jgwc8](https://youtu.be/_SG3Q2Jgwc8)
 ___
 ### Transaction ID: 6JG52256VK043803M
 
@@ -484,19 +484,19 @@ ___
 ___
 ### Transaction ID: 52H17517CU3709447  
 
-FunPay order number: QMWTPGUT
+**FunPay order number**: QMWTPGUT
 
-PayPal order number: 1YW71111A9073321W
+**PayPal order number**: 1YW71111A9073321W
 
-Buyer: [javascripts](https://funpay.com/en/users/2425911/)
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
 
-Seller: [dronskm21](https://funpay.com/en/users/3724472/)
+**Seller**: [dronskm21](https://funpay.com/en/users/3724472/)
 
-Overview: https://s.funpay.com/s/img/gp/j1/gpj1lepirgydj7fcybs2.jpg
+**Overview**: https://s.funpay.com/s/img/gp/j1/gpj1lepirgydj7fcybs2.jpg
 
-Detail: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
 
-Chat: 
+**Chat**: 
 
 [https://s.funpay.com/s/img/s0/96/s0962d1etipe4k1ucir5.jpg](https://s.funpay.com/s/img/s0/96/s0962d1etipe4k1ucir5.jpg) (in this screenshot, the buyer javascripts has paid for order #QMWTPGUT, sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=aMw47eW_) and onfirmed that order)  
 [https://s.funpay.com/s/img/hg/a2/hga2nlckdbbxbxd2ej4r.jpg](https://s.funpay.com/s/img/hg/a2/hga2nlckdbbxbxd2ej4r.jpg)  
@@ -507,7 +507,7 @@ Chat:
 [https://s.funpay.com/s/img/2x/kx/2xkxise8vqpr0fi52k6y.jpg](https://s.funpay.com/s/img/2x/kx/2xkxise8vqpr0fi52k6y.jpg)  
 [https://s.funpay.com/s/img/xh/5s/xh5spery6p8ledue6p2y.jpg](https://s.funpay.com/s/img/xh/5s/xh5spery6p8ledue6p2y.jpg)
 
-Video confirmation: [https://youtu.be/zeCjgZ1AJFU](https://youtu.be/zeCjgZ1AJFU)
+**Video confirmation**: [https://youtu.be/zeCjgZ1AJFU](https://youtu.be/zeCjgZ1AJFU)
 
 ___
 ### Transaction ID: 79S51403B6584894F
@@ -535,19 +535,19 @@ ___
 ___
 ### Transaction ID: 1G1068103J2638901
 
-FunPay order number: MBKB39XR
+**FunPay order number**: MBKB39XR
 
-PayPal order number: 2SV32993R7449774B
+**PayPal order number**: 2SV32993R7449774B
 
-Buyer: [niggaslayer69](https://funpay.com/en/users/2425892/)
+**Buyer**: [niggaslayer69](https://funpay.com/en/users/2425892/)
 
-Seller: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)
 
-Overview: https://s.funpay.com/s/img/pj/wu/pjwuffdl8twc5jeuag60.jpg 
+**Overview**: https://s.funpay.com/s/img/pj/wu/pjwuffdl8twc5jeuag60.jpg 
 
-Detail: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
 
-Chat: 
+**Chat**: 
 https://s.funpay.com/s/img/af/es/afesepunp67u3piddye3.jpg  
 https://s.funpay.com/s/img/pc/4g/pc4g4ezbzko0u81o7uv1.jpg   
 https://s.funpay.com/s/img/59/az/59az31oskw96te9b8ef1.jpg   
@@ -563,7 +563,7 @@ https://s.funpay.com/s/img/3e/d5/3ed5awya0n6jk2pakz34.jpg
 https://s.funpay.com/s/img/oc/pf/ocpf4c8yjodnalsm1fm1.jpg 
 
 
-Video confirmation: https://youtu.be/iOFczfR3q8Y
+**Video confirmation**: https://youtu.be/iOFczfR3q8Y
 
 ___
 ### Transaction ID: 15M750955F329405T
@@ -1576,21 +1576,21 @@ ___
 
 ### Transaction ID: 1HB240328D4931208 
 
-FunPay order number: E7EWNFTX
+**FunPay order number**: E7EWNFTX
 
-PayPal order number: 5FH68838BR236101S
+**PayPal order number**: 5FH68838BR236101S
 
-Buyer: [randommmm2](https://funpay.com/en/users/2040243/)
+**Buyer**: [randommmm2](https://funpay.com/en/users/2040243/)
 
-Seller: [bookofra](https://funpay.com/en/users/2240069/)
+**Seller**: [bookofra](https://funpay.com/en/users/2240069/)
 
-Overview: https://s.funpay.com/s/img/kp/qg/kpqgz5rj1bf0lomy8da4.jpg
+**Overview**: https://s.funpay.com/s/img/kp/qg/kpqgz5rj1bf0lomy8da4.jpg
 
-Detail: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
+**Detail**: Ordering is carried out as follows: the buyer indicates the seller his game nickname when placing the order (CHARACTER NAME field), then the seller gives the buyer the goods in the game. The buyer confirms the transaction on the site after receiving the goods in the game.
 
 Buyer randommmm2 bought the same item many times from the seller bookofra. And, having thanked him, the buyer confirmed the deal and after some time returned to the seller bookofra for the goods again.
 
-Chat: 
+**Chat**: 
 
 https://s.funpay.com/s/img/ge/hx/gehxnufk9t6xrltn0orx.jpg (in this screenshot, all previous orders between buyer randommmm2 and seller bookofra)  
 https://s.funpay.com/s/img/dd/vo/ddvo3sbul2d1c4bykd9z.jpg (in this screenshot, all previous orders between buyer randommmm2 and seller bookofra)  
@@ -1883,13 +1883,75 @@ ___
 **Overview**: https://s.funpay.com/s/img/ab/05/ab0519fohuqbnturjpoq.jpg  
 https://s.funpay.com/s/img/1v/xn/1vxn3ik4wwgbkbrx5r52.jpg  
 
-**Detail**: The ordering process is as follows: the buyer informs the seller about his account data in the Discord chat, the seller arranges the NITRO subscription with activation/
+**Detail**: The ordering process is as follows: the buyer informs the seller about his account data in the Discord chat, the seller arranges the NITRO subscription with activation
 
 **Chat**: 
 
 https://s.funpay.com/s/img/38/16/3816dxwrtkuxsqv9wi5b.jpg (in this screenshot, buyer DeetzUser has paid for order #JVVAC2BN and provides his Discord account login)  
 https://s.funpay.com/s/img/k5/b5/k5b5av6ll98aytguu7cd.jpg (in this screenshot, the seller provides proof of completion of the order, and the buyer DeetzUser confirmed the order #JVVAC2BN)  
 
-**Screenshot confirmation**:
+**Screenshot confirmation**: https://s.funpay.com/s/chat/5p/b1/5pb1kbyl4qg0yaow2g8r.jpg 
 
-https://s.funpay.com/s/chat/5p/b1/5pb1kbyl4qg0yaow2g8r.jpg 
+___
+
+### Transaction ID: 9KT12570ND304883J
+
+**FunPay order number**: YA32SQ9Y
+
+**PayPal order number**: 53R32052GF722132S
+
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
+
+**Seller**: [maksimsendrou](https://funpay.com/en/users/124696/)
+
+**Overview**: https://s.funpay.com/s/img/zd/90/zd90jzk2n3rzj4bb7a2c.jpg
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+
+**Chat**: 
+[https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg](https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg) (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=Bea7sa-z))  
+[https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg](https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg)  
+[https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg](https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg)  
+[https://s.funpay.com/s/img/ip/d2/ipd2h8d2m3u3dhqx4y4i.jpg](https://s.funpay.com/s/img/ip/d2/ipd2h8d2m3u3dhqx4y4i.jpg)  
+[https://s.funpay.com/s/img/6z/6d/6z6dwtojdr7c8dtbl3uw.jpg](https://s.funpay.com/s/img/6z/6d/6z6dwtojdr7c8dtbl3uw.jpg)  
+[https://s.funpay.com/s/img/9y/z4/9yz4uu4msbrykztdloyi.jpg](https://s.funpay.com/s/img/9y/z4/9yz4uu4msbrykztdloyi.jpg) (buyer javascripts has paid for order #YA32SQ9Y and confirmed that order)  
+[https://s.funpay.com/s/img/ac/xo/acxowkcjsixlkymhv9ia.jpg](https://s.funpay.com/s/img/ac/xo/acxowkcjsixlkymhv9ia.jpg)  
+[https://s.funpay.com/s/img/m2/rf/m2rfinw35km9ppbfz3s9.jpg](https://s.funpay.com/s/img/m2/rf/m2rfinw35km9ppbfz3s9.jpg)  
+[https://s.funpay.com/s/img/uq/bd/uqbdnqzik0z7n1e78n44.jpg](https://s.funpay.com/s/img/uq/bd/uqbdnqzik0z7n1e78n44.jpg) 
+[https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg](https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg)  
+[https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg](https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg)  
+
+**Video confirmation**: https://youtu.be/XvR9huNSJzs (confirmation of the transfer of goods on video at 0:06 from several orders (#HZDLT5WE, #YA32SQ9Y, #VS444VU9, #HEYB5SUT). Goods were transferred in the one steam exchange in 20:44)
+
+___
+
+### Transaction ID: 3HY30858B2239971P
+
+**FunPay order number**: VS444VU9
+
+**PayPal order number**: 2YP40807FC213394M
+
+**Buyer**: [javascripts](https://funpay.com/en/users/2425911/)
+
+**Seller**: [maksimsendrou](https://funpay.com/en/users/124696/)
+
+**Overview**: https://s.funpay.com/s/img/5s/vi/5svih76ki40v8um6pt2j.jpg
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+
+**Chat**: 
+[https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg](https://s.funpay.com/s/img/nc/1e/nc1eayqjjgwq2vvimyxh.jpg) (in this screenshot, the buyer has sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=137489771&token=Bea7sa-z))  
+[https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg](https://s.funpay.com/s/img/nd/q6/ndq6ucstdr09bxi74mp0.jpg)  
+[https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg](https://s.funpay.com/s/img/r5/kx/r5kx2o8zp38qkyy6m3t8.jpg)  
+[https://s.funpay.com/s/img/ip/d2/ipd2h8d2m3u3dhqx4y4i.jpg](https://s.funpay.com/s/img/ip/d2/ipd2h8d2m3u3dhqx4y4i.jpg)  
+[https://s.funpay.com/s/img/6z/6d/6z6dwtojdr7c8dtbl3uw.jpg](https://s.funpay.com/s/img/6z/6d/6z6dwtojdr7c8dtbl3uw.jpg) (buyer javascripts has paid for order #VS444VU9)  
+[https://s.funpay.com/s/img/9y/z4/9yz4uu4msbrykztdloyi.jpg](https://s.funpay.com/s/img/9y/z4/9yz4uu4msbrykztdloyi.jpg) (The buyer javascripts has confirmed that order #VS444VU9 has been fulfilled successfully)  
+[https://s.funpay.com/s/img/ac/xo/acxowkcjsixlkymhv9ia.jpg](https://s.funpay.com/s/img/ac/xo/acxowkcjsixlkymhv9ia.jpg)  
+[https://s.funpay.com/s/img/m2/rf/m2rfinw35km9ppbfz3s9.jpg](https://s.funpay.com/s/img/m2/rf/m2rfinw35km9ppbfz3s9.jpg)  
+[https://s.funpay.com/s/img/uq/bd/uqbdnqzik0z7n1e78n44.jpg](https://s.funpay.com/s/img/uq/bd/uqbdnqzik0z7n1e78n44.jpg) 
+[https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg](https://s.funpay.com/s/img/so/92/so928mn1s68zx4ijs2qc.jpg)  
+[https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg](https://s.funpay.com/s/img/4y/7q/4y7q0nkk2h973amov7s0.jpg)  
+
+**Video confirmation**: https://youtu.be/XvR9huNSJzs (confirmation of the transfer of goods on video at 0:06 from several orders (#HZDLT5WE, #YA32SQ9Y, #VS444VU9, #HEYB5SUT). Goods were transferred in the one steam exchange in 20:44)
+
+___
