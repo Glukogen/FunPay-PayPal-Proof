@@ -1994,7 +1994,8 @@ ___
 
 **Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
 
-**Chat**: 
+**Chat**:  
+
 https://s.funpay.com/s/img/fq/8x/fq8xzm8wo9236filyh8q.jpg  
 https://s.funpay.com/s/img/5i/da/5idao3e4y73r61mwuu5q.jpg  
 https://s.funpay.com/s/img/tf/t0/tft0qccr1zi3kgoec4le.jpg (in this screenshot, the buyer niggaslayer69 has paid for order #QGJY41B6 and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1050345070&token=wBY9UZTX))  
