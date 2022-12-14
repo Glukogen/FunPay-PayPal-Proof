@@ -1955,3 +1955,50 @@ ___
 **Video confirmation**: https://youtu.be/XvR9huNSJzs (confirmation of the transfer of goods on video at 0:06 from several orders (#HZDLT5WE, #YA32SQ9Y, #VS444VU9, #HEYB5SUT). Goods were transferred in the one steam exchange in 20:44)
 
 ___
+
+### Transaction ID: 08314454X6057031C
+
+**FunPay order number**: FNLA1EXF
+
+**PayPal order number**: 04B25205EX5594808
+
+**Buyer**: [niggaslayer69](https://funpay.com/en/users/2425892/)
+
+**Seller**: [Terzer](https://funpay.com/en/users/2995127/)
+
+**Overview**: https://s.funpay.com/s/img/92/gk/92gkk6tr78xt9uil68yz.jpg
+
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+
+**Chat**: 
+
+https://s.funpay.com/s/img/jn/o8/jno8q8dkdogcnkj0ytzl.jpg (in this screenshot, buyer niggaslayer69 has paid for order #FNLA1EXF and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1050345070&token=wBY9UZTX))  
+https://s.funpay.com/s/img/pt/uu/ptuuw4c72ipkh1aphg50.jpg (in this screenshot, the seller provides proof of transfer of goods and the buyer niggaslayer69 has confirmed that order #FNLA1EXF)  
+
+**Video confirmation**: https://www.youtube.com/shorts/CBIYfFi4TWI
+
+___
+
+### Transaction ID: 1KB32990JM2952529
+
+**FunPay order number**: JCX2YRD8
+
+**PayPal order number**: 9LG16427VB347841Y
+
+**Buyer**: [niggaslayer69](https://funpay.com/en/users/2425892/)
+
+**Seller**: [EigoWAKARIMASEN](https://funpay.com/en/users/4694473/)
+
+**Overview**: https://s.funpay.com/s/img/gs/ad/gsad5q17wi9d0n2f2ydi.jpg
+
+**Detail**: The order is carried out as follows: the buyer provides the seller with his trade link, after which the seller hands over the purchased goods to the buyer.
+
+**Chat**: 
+https://s.funpay.com/s/img/fq/8x/fq8xzm8wo9236filyh8q.jpg  
+https://s.funpay.com/s/img/5i/da/5idao3e4y73r61mwuu5q.jpg  
+https://s.funpay.com/s/img/tf/t0/tft0qccr1zi3kgoec4le.jpg (in this screenshot, the buyer niggaslayer69 has paid for order #QGJY41B6 and sent his [trade link](https://steamcommunity.com/tradeoffer/new/?partner=1050345070&token=wBY9UZTX))  
+https://s.funpay.com/s/img/j7/zy/j7zy22lkhoxz5srz1wz3.jpg (in this screenshot, the seller EigoWAKARIMASEN provides proof of transfer of goods)  
+https://s.funpay.com/s/img/ps/23/ps23i8u4zvtoduhlo8fd.jpg (in this screenshot, the buyer niggaslayer69 has confirmed that order #JCX2YRD8)  
+
+**Video confirmation**: https://youtu.be/TSL4pbKdFHA
